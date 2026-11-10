@@ -4,7 +4,7 @@
     "name": "Git",
     "description": "A Git integration plugin for PieJFX that enables repository management, version control operations, and streamlined Git workflows directly within the application.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/bwxor/piejfx-git-plugin/releases/download/Stable/piejfx-git-plugin.zip",
+    "downloadUrl": "https://github.com/pie-plugins/piejfx-git-plugin/releases/download/Stable/piejfx-git-plugin.zip",
     "slug": "piejfx-git-plugin",
     "homepageUrl": "https://bwxor.com",
     "verified": true
@@ -14,7 +14,7 @@
     "name": "Maven",
     "description": "A plugin that provides Maven project support for PieJFX, including project creation, lifecycle management, custom build command management and dependency visualizer.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/bwxor/piejfx-maven-plugin/releases/download/Stable/piejfx-maven-plugin.zip",
+    "downloadUrl": "https://github.com/pie-plugins/piejfx-maven-plugin/releases/download/Stable/piejfx-maven-plugin.zip",
     "slug": "piejfx-maven-plugin",
     "homepageUrl": "https://bwxor.com",
     "verified": true
@@ -24,7 +24,7 @@
     "name": "Documentation Generator",
     "description": "A plugin that is capable of generating documentation files, such as Software Requirement Specification, Change Request, and Release Notes.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/bwxor/piejfx-documentation-plugin/releases/download/Stable/piejfx-documentation-plugin.zip",
+    "downloadUrl": "https://github.com/pie-plugins/piejfx-documentation-plugin/releases/download/Stable/piejfx-documentation-plugin.zip",
     "slug": "piejfx-documentation-plugin",
     "homepageUrl": "https://bwxor.com",
     "verified": true
@@ -34,7 +34,7 @@
     "name": "Crumb (Agentic Plugin for PieJFX)",
     "description": "A plugin that provides agentic capability to PieJFX, offering a simple harness over OpenRouter models.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/bwxor/crumb/releases/download/Stable/crumb.zip",
+    "downloadUrl": "https://github.com/pie-plugins/crumb/releases/download/Stable/crumb.zip",
     "slug": "crumb",
     "homepageUrl": "https://bwxor.com",
     "verified": true
@@ -44,7 +44,7 @@
     "name": "DRP (Discord Rich Presence)",
     "description": "A plugin that displays your PieJFX activity on your Discord profile through Discord Rich Presence, showing what you're working on along with an elapsed-time counter and a link to the project.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/bwxor/drp/releases/download/Stable/drp.zip",
+    "downloadUrl": "https://github.com/pie-plugins/drp/releases/download/Stable/drp.zip",
     "slug": "drp",
     "homepageUrl": "https://bwxor.com",
     "verified": true
