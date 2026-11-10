@@ -4,7 +4,7 @@
     "name": "Git",
     "description": "A Git integration plugin for PieJFX that enables repository management, version control operations, and streamlined Git workflows directly within the application.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/pie-plugins/piejfx-git-plugin/releases/download/Stable/piejfx-git-plugin.zip",
+    "downloadUrl": "https://github.com/pie-plugins/git/releases/download/Stable/git.zip",
     "slug": "piejfx-git-plugin",
     "homepageUrl": "https://bwxor.com",
     "verified": true
@@ -14,17 +14,17 @@
     "name": "Maven",
     "description": "A plugin that provides Maven project support for PieJFX, including project creation, lifecycle management, custom build command management and dependency visualizer.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/pie-plugins/piejfx-maven-plugin/releases/download/Stable/piejfx-maven-plugin.zip",
+    "downloadUrl": "https://github.com/pie-plugins/maven/releases/download/Stable/maven.zip",
     "slug": "piejfx-maven-plugin",
     "homepageUrl": "https://bwxor.com",
     "verified": true
   },
   {
     "id": "6a83fb09fd8b11723ed9d380",
-    "name": "Documentation Generator",
+    "name": "DocuGen",
     "description": "A plugin that is capable of generating documentation files, such as Software Requirement Specification, Change Request, and Release Notes.",
     "author": "Mario Mateas",
-    "downloadUrl": "https://github.com/pie-plugins/piejfx-documentation-plugin/releases/download/Stable/piejfx-documentation-plugin.zip",
+    "downloadUrl": "https://github.com/pie-plugins/docugen/releases/download/Stable/docugen.zip",
     "slug": "piejfx-documentation-plugin",
     "homepageUrl": "https://bwxor.com",
     "verified": true
