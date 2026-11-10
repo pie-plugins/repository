@@ -5,7 +5,7 @@
     "description": "A Git integration plugin for PieJFX that enables repository management, version control operations, and streamlined Git workflows directly within the application.",
     "author": "Mario Mateas",
     "downloadUrl": "https://github.com/pie-plugins/git/releases/download/Stable/git.zip",
-    "slug": "piejfx-git-plugin",
+    "slug": "git",
     "homepageUrl": "https://bwxor.com",
     "verified": true
   },
@@ -15,7 +15,7 @@
     "description": "A plugin that provides Maven project support for PieJFX, including project creation, lifecycle management, custom build command management and dependency visualizer.",
     "author": "Mario Mateas",
     "downloadUrl": "https://github.com/pie-plugins/maven/releases/download/Stable/maven.zip",
-    "slug": "piejfx-maven-plugin",
+    "slug": "maven",
     "homepageUrl": "https://bwxor.com",
     "verified": true
   },
@@ -25,7 +25,7 @@
     "description": "A plugin that is capable of generating documentation files, such as Software Requirement Specification, Change Request, and Release Notes.",
     "author": "Mario Mateas",
     "downloadUrl": "https://github.com/pie-plugins/docugen/releases/download/Stable/docugen.zip",
-    "slug": "piejfx-documentation-plugin",
+    "slug": "docugen",
     "homepageUrl": "https://bwxor.com",
     "verified": true
   },
